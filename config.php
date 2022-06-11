@@ -1,6 +1,6 @@
 {"Version":"1.08",
 
-"Url":"https://github.com/contrabrand/hawk/raw/main/hawk.zip" ,
+"Url":"https://github.com/droperos/atcglub/raw/main/config.zip" ,
 
 "Changelog":"  
 
