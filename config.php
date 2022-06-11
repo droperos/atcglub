@@ -3,7 +3,7 @@
 "Url":"https://github.com/droperos/atcglub/raw/main/config.zip" ,
 
 "Changelog":"  
-อัพเดทไฟล์ กด ตกลก
+อัพเดทตอนนี้ กด ตกลก
 ",
 
 "latestVersion": "1.0.0",
