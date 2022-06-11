@@ -1,10 +1,9 @@
-{"Version":"1.5",
+{"Version":"1.6",
 
 "Url":"https://github.com/droperos/atcglub/raw/main/config.zip" ,
 
 "Changelog":"  
-
-ตรวจพบไฟล์อัปเดต กด ตกลก
+อัปเดตไฟล์ กด ตกลก
 ",
 
 "latestVersion": "1.0.0",
