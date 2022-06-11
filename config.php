@@ -1,9 +1,10 @@
 {"Version":"1.08",
 
-"Url":"https://github.com/droperos/atcglub/raw/main/config.zip" ,
+"Url":"https://github.com/contrabrand/hawk/raw/main/hawk.zip" ,
 
 "Changelog":"  
-อ้ฟเดทไฟล์ล่าสุด กดตกลง
+
+ตรวจพบไฟล์เวอร์ชั่นล่าสุดอัเฟเดต กด ตกลก
 ",
 
 "latestVersion": "1.0.0",
@@ -13,5 +14,9 @@
 "url": "",
 
  "releaseNotes": [
+
  "-Demo"
+
   ]
+
+}
