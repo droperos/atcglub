@@ -1,4 +1,4 @@
-{"Version":"1.8",
+{"Version":"1.11",
 
 "Url":"https://github.com/droperos/atcglub/raw/main/config.zip" ,
 
