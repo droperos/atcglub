@@ -2,8 +2,7 @@
 
 "Url":"https://github.com/droperos/atcglub/raw/main/config.zip" ,
 
-"Changelog":"  
-
+"Changelog":"
 🆕 FREE × 3 unlimited
 🇸🇬 dtac + true nopro
 🆕 VIP × 1 premium 
